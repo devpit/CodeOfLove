@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>♥️</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+  <div class="content">
+    <img src="logo_app.svg" alt="logo" />
+  </div>
+  <script>
+  function fadeOutEffect() {
+  var body = document.getElementsByTagName("body")[0];
+  var fadeOut = setInterval(function () {
+    if (!body.style.opacity) {
+      body.style.opacity = 1;
+    }
+    if (body.style.opacity > 0) {
+      body.style.opacity -= 0.1;
+    } else {
+      clearInterval(fadeOut);
+      window.location.href = "app.html";
+    }
+  }, 200);
+}
+
+setTimeout(function(){
+    fadeOutEffect();
+}, 3000);
+
+  </script>
+</body>
+</html>
