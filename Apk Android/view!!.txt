@@ -1,0 +1,7 @@
+Olá,seja bem vindo!
+
+Este é uma versão do site, porém em forma de APK.
+
+Escrito em Java,Kolin,xmls,etc...
+
+Desfrute 👌💘
