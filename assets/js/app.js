@@ -1,12 +1,32 @@
-function desvia(btn) {
-  btn.style.position = 'absolute';
-  btn.style.bottom = geraPosicao(10, 70);
-  btn.style.left = geraPosicao(10, 70);
-}
+var btn = document.querySelector(".no");
+var position = 0;
+var isAnimating = false;
 
-function geraPosicao(min, max) {
-  return (Math.random() * (max - min) + min) + "%";
-}
+btn.addEventListener("click", function() {
+    if (!isAnimating) {
+        isAnimating = true;
+        position = position === 0 ? 150 : 0;
+        btn.style.transform = `translate(0px, ${position}px)`;
+        btn.style.transition = "all 0.2s ease";
+
+        setTimeout(function() {
+            isAnimating = false;
+        }, 200);
+    }
+});
+
+btn.addEventListener("mouseover", function() {
+    if (!isAnimating) {
+        isAnimating = true;
+        position = position === 0 ? 150 : 0;
+        btn.style.transform = `translate(0px, ${position}px)`;
+        btn.style.transition = "all 0.2s ease";
+
+        setTimeout(function() {
+            isAnimating = false;
+        }, 200);
+    }
+});
 
 const sim = document.getElementById('yes');
 
