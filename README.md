@@ -10,6 +10,7 @@ Ao acessar a página [CodeOfLove 💻❤️](https://codeoflove.netlify.app), os
 
 **Preview:**
 [CodeOfLove 💻❤️ Preview](https://codeoflove.netlify.app)
+![Resultado](https://codeoflove.netlify.app/assets/img/background-1.png)
 
 ## Tecnologias Utilizadas
 
