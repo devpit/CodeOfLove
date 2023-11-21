@@ -6,10 +6,10 @@ O **CodeOfLove 💻❤️** é uma página web interativa e divertida projetada 
 
 ## Como Funciona
 
-Ao acessar a página [CodeOfLove 💻❤️](https://datemew.netlify.app), os visitantes serão recebidos com uma animação criativa e uma proposta especial para pedir a pessoa amada em namoro, apresentando um estilo de programador. A página utiliza uma animação para simular um botão que se move para cima e para baixo, adicionando um toque interativo à proposta.
+Ao acessar a página [CodeOfLove 💻❤️](https://codeoflove.netlify.app), os visitantes serão recebidos com uma animação criativa e uma proposta especial para pedir a pessoa amada em namoro, apresentando um estilo de programador. A página utiliza uma animação para simular um botão que se move para cima e para baixo, adicionando um toque interativo à proposta.
 
 **Preview:**
-[CodeOfLove 💻❤️ Preview](https://datemew.netlify.app)
+[CodeOfLove 💻❤️ Preview](https://codeoflove.netlify.app)
 
 ## Tecnologias Utilizadas
 
@@ -59,4 +59,4 @@ Sinta-se à vontade para adaptar o conteúdo, as animações e o estilo para ate
 Contribuições
 Contribuições são bem-vindas! Se você tem sugestões para melhorar o projeto, sinta-se à vontade para criar um fork do repositório e enviar um pull request.
 
-Esperamos que o CodeOfLove 💻❤️ traga uma abordagem divertida e única para expressar sentimentos românticos com um toque de programação. Divirta-se! 😊❤️
+Espero que o CodeOfLove 💻❤️ traga uma abordagem divertida e única para expressar sentimentos românticos com um toque de programação. Divirta-se! 😊❤️
